@@ -1,0 +1,600 @@
+id,name,dias_consecutivos
+3500105,Adamantina,50
+3500204,Adolfo,27
+3500303,Aguaí,47
+3500402,Águas da Prata,47
+3500550,Águas de Santa Bárbara,47
+3500709,Agudos,47
+3500758,Alambari,24
+3500808,Alfredo Marcondes,48
+3500907,Altair,51
+3501004,Altinópolis,58
+3501103,Alto Alegre,48
+3501152,Alumínio,24
+3501202,Álvares Florence,51
+3501301,Álvares Machado,29
+3501400,Álvaro de Carvalho,50
+3501509,Alvinlândia,60
+3501608,Americana,49
+3501707,Américo Brasiliense,50
+3501806,Américo de Campos,51
+3501905,Amparo,41
+3502002,Analândia,50
+3502101,Andradina,50
+3502200,Angatuba,22
+3502309,Anhembi,25
+3502408,Anhumas,48
+3502507,Aparecida,48
+3502606,Aparecida d'Oeste,50
+3502705,Apiaí,29
+3502754,Araçariguama,41
+3502804,Araçatuba,50
+3502903,Araçoiaba da Serra,24
+3503000,Aramina,85
+3503109,Arandu,21
+3503158,Arapeí,48
+3503208,Araraquara,50
+3503307,Araras,48
+3503356,Arco-Íris,48
+3503406,Arealva,47
+3503505,Areias,48
+3503604,Areiópolis,27
+3503703,Ariranha,50
+3503802,Artur Nogueira,48
+3503901,Arujá,32
+3504008,Assis,24
+3504107,Atibaia,48
+3504206,Auriflama,50
+3504305,Avaí,50
+3504404,Avanhandava,50
+3504503,Avaré,21
+3504602,Bady Bassitt,51
+3504800,Bálsamo,51
+3504909,Bananal,18
+3505005,Barão de Antonina,22
+3505104,Barbosa,50
+3505203,Bariri,50
+3505302,Barra Bonita,25
+3505351,Barra do Chapéu,32
+3505401,Barra do Turvo,18
+3505500,Barretos,51
+3505609,Barrinha,50
+3505807,Bastos,48
+3505906,Batatais,84
+3506003,Bauru,50
+3506102,Bebedouro,50
+3506201,Bento de Abreu,50
+3506300,Bernardino de Campos,21
+3506409,Bilac,50
+3506508,Birigui,50
+3506607,Biritiba-Mirim,16
+3506706,Boa Esperança do Sul,50
+3506805,Bocaina,50
+3506904,Bofete,22
+3507001,Boituva,24
+3507100,Bom Jesus dos Perdões,48
+3507209,Borá,48
+3507308,Boracéia,50
+3507407,Borborema,50
+3507456,Borebi,47
+3507506,Botucatu,25
+3507605,Bragança Paulista,48
+3507704,Braúna,50
+3507803,Brodowski,51
+3507902,Brotas,50
+3508009,Buri,24
+3508108,Buritama,50
+3508207,Buritizal,60
+3508306,Cabrália Paulista,48
+3508405,Cabreúva,41
+3508504,Caçapava,33
+3508603,Cachoeira Paulista,49
+3508702,Caconde,58
+3508801,Cafelândia,50
+3508900,Caiabu,48
+3509007,Caieiras,49
+3509106,Caiuá,48
+3509205,Cajamar,49
+3509254,Cajati,33
+3509304,Cajobi,51
+3509403,Cajuru,58
+3509452,Campina do Monte Alegre,24
+3509502,Campinas,41
+3509601,Campo Limpo Paulista,49
+3509700,Campos do Jordão,48
+3509809,Campos Novos Paulista,48
+3509957,Canas,50
+3510005,Cândido Mota,24
+3510104,Cândido Rodrigues,50
+3510203,Capão Bonito,24
+3510302,Capela do Alto,24
+3510401,Capivari,25
+3510609,Carapicuíba,28
+3510708,Cardoso,51
+3510807,Casa Branca,47
+3510906,Cássia dos Coqueiros,51
+3511003,Castilho,50
+3511102,Catanduva,50
+3511201,Catiguá,51
+3511300,Cedral,51
+3511409,Cerqueira César,21
+3511508,Cerquilho,41
+3511607,Cesário Lange,39
+3511706,Charqueada,48
+3511904,Clementina,50
+3512001,Colina,51
+3512100,Colômbia,50
+3512209,Conchal,49
+3512308,Conchas,39
+3512407,Cordeirópolis,48
+3512506,Coroados,50
+3512605,Coronel Macedo,22
+3512704,Corumbataí,50
+3512803,Cosmópolis,50
+3512902,Cosmorama,50
+3513009,Cotia,16
+3513108,Cravinhos,51
+3513207,Cristais Paulista,60
+3513306,Cruzália,48
+3513405,Cruzeiro,48
+3513603,Cunha,15
+3513702,Descalvado,50
+3513850,Dirce Reis,50
+3513900,Divinolândia,58
+3514106,Dois Córregos,50
+3514205,Dolcinópolis,51
+3514304,Dourado,50
+3514403,Dracena,50
+3514502,Duartina,50
+3514601,Dumont,50
+3514700,Echaporã,24
+3514809,Eldorado,17
+3514908,Elias Fausto,25
+3514957,Embaúba,50
+3515004,Embu,15
+3515103,Embu-Guaçu,14
+3515129,Emilianópolis,50
+3515186,Espírito Santo do Pinhal,47
+3515194,Espírito Santo do Turvo,48
+3515202,Estrela d'Oeste,51
+3515301,Estrela do Norte,48
+3515350,Euclides da Cunha Paulista,25
+3515400,Fartura,21
+3515509,Fernandópolis,51
+3515608,Fernando Prestes,50
+3515657,Fernão,25
+3515806,Flora Rica,50
+3515905,Floreal,50
+3516002,Flórida Paulista,50
+3516101,Florínia,48
+3516200,Franca,59
+3516507,Gabriel Monteiro,50
+3516606,Gália,25
+3516705,Garça,50
+3516804,Gastão Vidigal,50
+3516853,Gavião Peixoto,50
+3516903,General Salgado,50
+3517000,Getulina,48
+3517109,Glicério,50
+3517208,Guaiçara,50
+3517307,Guaimbê,50
+3517406,Guaíra,52
+3517505,Guapiaçu,51
+3517604,Guapiara,21
+3517703,Guará,59
+3517802,Guaraçaí,50
+3517901,Guaraci,51
+3518008,Guarani d'Oeste,52
+3518107,Guarantã,50
+3518206,Guararapes,50
+3518305,Guararema,32
+3518404,Guaratinguetá,48
+3518503,Guareí,22
+3518602,Guariba,50
+3518701,Guarujá,15
+3518800,Guarulhos,49
+3518859,Guatapará,50
+3518909,Guzolândia,50
+3519006,Herculândia,48
+3519105,Iacanga,50
+3519204,Iacri,25
+3519253,Iaras,47
+3519303,Ibaté,50
+3519402,Ibirá,50
+3519501,Ibirarema,25
+3519600,Ibitinga,50
+3519709,Ibiúna,16
+3519808,Icém,51
+3519907,Iepê,48
+3520004,Igaraçu do Tietê,27
+3520103,Igarapava,60
+3520202,Igaratá,48
+3520301,Iguape,15
+3520426,Ilha Comprida,17
+3520442,Ilha Solteira,50
+3520509,Indaiatuba,25
+3520608,Indiana,48
+3520707,Indiaporã,51
+3520806,Inúbia Paulista,25
+3520905,Ipaussu,22
+3521002,Iperó,24
+3521101,Ipeúna,48
+3521150,Ipiguá,51
+3521200,Iporanga,20
+3521309,Ipuã,59
+3521408,Iracemápolis,48
+3521507,Irapuã,50
+3521606,Irapuru,50
+3521705,Itaberá,41
+3521804,Itaí,22
+3521903,Itajobi,50
+3522000,Itaju,50
+3522109,Itanhaém,17
+3522158,Itaóca,29
+3522208,Itapecerica da Serra,14
+3522307,Itapetininga,24
+3522406,Itapeva,41
+3522505,Itapevi,28
+3522604,Itapira,48
+3522653,Itapirapuã Paulista,29
+3522703,Itápolis,50
+3522802,Itaporanga,24
+3522901,Itapuí,50
+3523008,Itapura,50
+3523107,Itaquaquecetuba,32
+3523206,Itararé,40
+3523305,Itariri,17
+3523404,Itatiba,48
+3523503,Itatinga,22
+3523602,Itirapina,50
+3523701,Itirapuã,60
+3523800,Itobi,47
+3523909,Itu,41
+3524006,Itupeva,41
+3524105,Ituverava,60
+3524204,Jaborandi,51
+3524303,Jaboticabal,50
+3524402,Jacareí,49
+3524501,Jaci,51
+3524600,Jacupiranga,18
+3524709,Jaguariúna,41
+3524808,Jales,51
+3524907,Jambeiro,32
+3525102,Jardinópolis,83
+3525201,Jarinu,49
+3525300,Jaú,50
+3525409,Jeriquara,60
+3525508,Joanópolis,49
+3525607,João Ramalho,48
+3525706,José Bonifácio,50
+3525805,Júlio Mesquita,50
+3525904,Jundiaí,41
+3526001,Junqueirópolis,50
+3526100,Juquiá,17
+3526209,Juquitiba,16
+3526308,Lagoinha,31
+3526407,Laranjal Paulista,48
+3526506,Lavínia,50
+3526605,Lavrinhas,48
+3526704,Leme,49
+3526803,Lençóis Paulista,25
+3526902,Limeira,48
+3527108,Lins,50
+3527207,Lorena,48
+3527256,Lourdes,50
+3527405,Lucélia,50
+3527504,Lucianópolis,25
+3527603,Luís Antônio,51
+3527702,Luiziânia,48
+3527801,Lupércio,48
+3527900,Lutécia,48
+3528007,Macatuba,25
+3528106,Macaubal,50
+3528205,Macedônia,51
+3528304,Magda,51
+3528403,Mairinque,24
+3528502,Mairiporã,48
+3528601,Manduri,22
+3528700,Marabá Paulista,50
+3528809,Maracaí,48
+3528858,Marapoama,50
+3528908,Mariápolis,50
+3529005,Marília,48
+3529104,Marinópolis,50
+3529203,Martinópolis,48
+3529302,Matão,50
+3529401,Mauá,16
+3529500,Mendonça,50
+3529609,Meridiano,51
+3529658,Mesópolis,51
+3529708,Miguelópolis,61
+3529807,Mineiros do Tietê,27
+3529906,Miracatu,17
+3530003,Mira Estrela,51
+3530102,Mirandópolis,50
+3530201,Mirante do Paranapanema,48
+3530300,Mirassol,51
+3530409,Mirassolândia,51
+3530508,Mococa,57
+3530607,Mogi das Cruzes,16
+3530706,Mogi Guaçu,48
+3530805,Moji Mirim,48
+3530904,Mombuca,41
+3531001,Monções,50
+3531100,Mongaguá,15
+3531209,Monte Alegre do Sul,39
+3531308,Monte Alto,50
+3531407,Monte Aprazível,50
+3531506,Monte Azul Paulista,50
+3531605,Monte Castelo,50
+3531704,Monteiro Lobato,48
+3531803,Monte Mor,25
+3531902,Morro Agudo,51
+3532009,Morungaba,41
+3532058,Motuca,50
+3532108,Murutinga do Sul,50
+3532157,Nantes,48
+3532207,Narandiba,48
+3532306,Natividade da Serra,32
+3532405,Nazaré Paulista,48
+3532504,Neves Paulista,50
+3532603,Nhandeara,50
+3532801,Nova Aliança,50
+3532827,Nova Campina,29
+3532843,Nova Canaã Paulista,50
+3532868,Nova Castilho,50
+3532900,Nova Europa,50
+3533007,Nova Granada,51
+3533205,Nova Independência,50
+3533254,Novais,50
+3533304,Nova Luzitânia,50
+3533502,Novo Horizonte,50
+3533601,Nuporanga,51
+3533700,Ocauçu,48
+3533809,Óleo,38
+3533908,Olímpia,51
+3534005,Onda Verde,51
+3534104,Oriente,48
+3534203,Orindiúva,59
+3534302,Orlândia,83
+3534500,Oscar Bressane,48
+3534609,Osvaldo Cruz,25
+3534708,Ourinhos,25
+3534757,Ouroeste,51
+3534807,Ouro Verde,50
+3534906,Pacaembu,50
+3535002,Palestina,51
+3535200,Palmeira d'Oeste,51
+3535309,Palmital,24
+3535408,Panorama,50
+3535507,Paraguaçu Paulista,48
+3535606,Paraibuna,33
+3535705,Paraíso,50
+3535804,Paranapanema,22
+3535903,Paranapuã,51
+3536000,Parapuã,25
+3536109,Pardinho,22
+3536208,Pariquera-Açu,15
+3536257,Parisi,51
+3536307,Patrocínio Paulista,59
+3536406,Paulicéia,50
+3536505,Paulínia,53
+3536570,Paulistânia,48
+3536604,Paulo de Faria,51
+3536703,Pederneiras,50
+3536802,Pedra Bela,48
+3536901,Pedranópolis,51
+3537008,Pedregulho,59
+3537107,Pedreira,41
+3537156,Pedrinhas Paulista,48
+3537206,Pedro de Toledo,17
+3537305,Penápolis,50
+3537404,Pereira Barreto,50
+3537503,Pereiras,39
+3537701,Piacatu,50
+3537800,Piedade,16
+3537909,Pilar do Sul,24
+3538006,Pindamonhangaba,37
+3538105,Pindorama,50
+3538204,Pinhalzinho,48
+3538303,Piquerobi,50
+3538501,Piquete,59
+3538600,Piracaia,48
+3538709,Piracicaba,50
+3538808,Piraju,21
+3538907,Pirajuí,50
+3539004,Pirangi,50
+3539103,Pirapora do Bom Jesus,41
+3539202,Pirapozinho,48
+3539301,Pirassununga,47
+3539400,Piratininga,48
+3539509,Pitangueiras,50
+3539608,Planalto,50
+3539707,Platina,24
+3539806,Poá,32
+3539905,Poloni,50
+3540002,Pompéia,48
+3540101,Pongaí,50
+3540200,Pontal,50
+3540259,Pontalinda,50
+3540309,Pontes Gestal,51
+3540408,Populina,51
+3540507,Porangaba,39
+3540606,Porto Feliz,41
+3540705,Porto Ferreira,50
+3540754,Potim,51
+3540804,Potirendaba,50
+3540903,Pradópolis,52
+3541000,Praia Grande,16
+3541059,Pratânia,25
+3541109,Presidente Alves,50
+3541208,Presidente Bernardes,48
+3541307,Presidente Epitácio,50
+3541406,Presidente Prudente,48
+3541505,Presidente Venceslau,50
+3541604,Promissão,50
+3541653,Quadra,39
+3541703,Quatá,48
+3541802,Queiroz,48
+3541901,Queluz,48
+3542008,Quintana,48
+3542107,Rafard,42
+3542206,Rancharia,48
+3542305,Redenção da Serra,32
+3542404,Regente Feijó,48
+3542503,Reginópolis,50
+3542602,Registro,16
+3542701,Restinga,59
+3542800,Ribeira,29
+3542909,Ribeirão Bonito,50
+3543006,Ribeirão Branco,30
+3543105,Ribeirão Corrente,58
+3543204,Ribeirão do Sul,48
+3543238,Ribeirão dos Índios,50
+3543253,Ribeirão Grande,15
+3543303,Ribeirão Pires,16
+3543402,Ribeirão Preto,50
+3543501,Riversul,41
+3543600,Rifaina,60
+3543709,Rincão,50
+3543808,Rinópolis,25
+3543907,Rio Claro,48
+3544004,Rio das Pedras,49
+3544202,Riolândia,51
+3544251,Rosana,25
+3544400,Rubiácea,50
+3544509,Rubinéia,50
+3544608,Sabino,50
+3544707,Sagres,50
+3544806,Sales,50
+3544905,Sales Oliveira,84
+3545001,Salesópolis,16
+3545100,Salmourão,50
+3545159,Saltinho,49
+3545209,Salto,25
+3545308,Salto de Pirapora,28
+3545407,Salto Grande,25
+3545506,Sandovalina,48
+3545605,Santa Adélia,50
+3545704,Santa Albertina,51
+3545803,Santa Bárbara d'Oeste,50
+3546009,Santa Branca,33
+3546108,Santa Clara d'Oeste,50
+3546207,Santa Cruz da Conceição,50
+3546256,Santa Cruz da Esperança,50
+3546306,Santa Cruz das Palmeiras,47
+3546405,Santa Cruz do Rio Pardo,47
+3546504,Santa Ernestina,50
+3546603,Santa Fé do Sul,50
+3546702,Santa Gertrudes,48
+3546801,Santa Isabel,32
+3546900,Santa Lúcia,50
+3547007,Santa Maria da Serra,48
+3547106,Santa Mercedes,50
+3547304,Santana de Parnaíba,28
+3547403,Santa Rita d'Oeste,50
+3547502,Santa Rita do Passa Quatro,51
+3547601,Santa Rosa de Viterbo,61
+3547650,Santa Salete,51
+3547700,Santo Anastácio,50
+3547809,Santo André,16
+3547908,Santo Antônio da Alegria,58
+3548005,Santo Antônio de Posse,41
+3548054,Santo Antônio do Aracanguá,50
+3548104,Santo Antônio do Jardim,58
+3548203,Santo Antônio do Pinhal,48
+3548302,Santo Expedito,48
+3548401,Santópolis do Aguapeí,48
+3548500,Santos,16
+3548609,São Bento do Sapucaí,34
+3548708,São Bernardo do Campo,16
+3548906,São Carlos,50
+3549102,São João da Boa Vista,47
+3549201,São João das Duas Pontes,51
+3549250,São João de Iracema,50
+3549300,São João do Pau d'Alho,25
+3549409,São Joaquim da Barra,59
+3549508,São José da Bela Vista,59
+3549607,São José do Barreiro,17
+3549706,São José do Rio Pardo,58
+3549805,São José do Rio Preto,51
+3549904,São José dos Campos,48
+3549953,São Lourenço da Serra,17
+3550001,São Luís do Paraitinga,15
+3550100,São Manuel,24
+3550209,São Miguel Arcanjo,24
+3550308,São Paulo,16
+3550407,São Pedro,48
+3550506,São Pedro do Turvo,48
+3550605,São Roque,24
+3550803,São Sebastião da Grama,47
+3550902,São Simão,50
+3551009,São Vicente,15
+3551108,Sarapuí,24
+3551207,Sarutaiá,21
+3551306,Sebastianópolis do Sul,50
+3551405,Serra Azul,50
+3551504,Serrana,58
+3551603,Serra Negra,39
+3551702,Sertãozinho,50
+3551801,Sete Barras,17
+3551900,Severínia,51
+3552007,Silveiras,49
+3552106,Socorro,48
+3552205,Sorocaba,28
+3552304,Sud Mennucci,50
+3552403,Sumaré,40
+3552502,Suzano,16
+3552551,Suzanápolis,50
+3552601,Tabapuã,50
+3552700,Tabatinga,50
+3552908,Taciba,48
+3553005,Taguaí,22
+3553104,Taiaçu,50
+3553203,Taiúva,50
+3553302,Tambaú,39
+3553401,Tanabi,50
+3553500,Tapiraí,16
+3553609,Tapiratiba,51
+3553658,Taquaral,50
+3553708,Taquaritinga,50
+3553807,Taquarituba,22
+3553856,Taquarivaí,30
+3553906,Tarabai,29
+3553955,Tarumã,24
+3554003,Tatuí,24
+3554102,Taubaté,29
+3554201,Tejupá,21
+3554300,Teodoro Sampaio,25
+3554409,Terra Roxa,51
+3554508,Tietê,41
+3554607,Timburi,22
+3554656,Torre de Pedra,22
+3554706,Torrinha,50
+3554805,Tremembé,37
+3554904,Três Fronteiras,50
+3554953,Tuiuti,48
+3555000,Tupã,48
+3555109,Tupi Paulista,50
+3555208,Turiúba,50
+3555307,Turmalina,51
+3555356,Ubarana,27
+3555505,Ubirajara,25
+3555604,Uchoa,50
+3555703,União Paulista,50
+3555802,Urânia,51
+3556008,Urupês,50
+3556107,Valentim Gentil,51
+3556206,Valinhos,49
+3556305,Valparaíso,50
+3556354,Vargem,48
+3556404,Vargem Grande do Sul,47
+3556602,Vera Cruz,50
+3556701,Vinhedo,41
+3556800,Viradouro,50
+3556909,Vista Alegre do Alto,50
+3557006,Votorantim,45
+3557105,Votuporanga,51
+3557154,Zacarias,50
+3557204,Chavantes,25
+3557303,Estiva Gerbi,48
