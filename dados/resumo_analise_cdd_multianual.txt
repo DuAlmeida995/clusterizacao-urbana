@@ -1,0 +1,82 @@
+[entrada] linhas lidas - perdas (SNIS): 647
+[entrada] linhas lidas - renda (IBGE): 662
+[duplicatas] linhas identicas removidas - perdas: 0
+[duplicatas] linhas identicas removidas - renda: 0
+[duplicatas] municipios com mais de um prestador de agua (fica o primeiro): 0
+[duplicatas] municipios repetidos na renda (fica o primeiro): 0
+[implausiveis] perdas exatamente 0,00% tratadas como ausentes (decisao do artigo): 10
+[implausiveis] renda <= 0 tratada como ausente: 0
+[ausentes] municipios removidos por renda ou perdas ausentes: 12
+[outliers] renda_per_capita: acima do limite superior do IQR (limitados): 24
+[outliers] renda_per_capita: abaixo do limite inferior do IQR (limitados): 0
+[outliers] indice_perdas_distribuicao: acima do limite superior do IQR (limitados): 17
+[outliers] indice_perdas_distribuicao: abaixo do limite inferior do IQR (limitados): 0
+[duplicatas] linhas identicas removidas - CDD: 0
+[duplicatas] municipio-ano repetidos com valores diferentes (fica o primeiro): 0
+[completude] municipio-ano com menos de 90% dos dias observados (anulado): 0
+[implausiveis] CDD negativo ou maior que os dias observados (anulado): 0
+[outliers] CDD 2020: acima de 85.5 dias (limite IQR): 40
+[outliers] CDD 2020: abaixo de 1.5 dias (limite IQR): 0
+[outliers] CDD 2021: acima de 147.5 dias (limite IQR): 0
+[outliers] CDD 2021: abaixo de 0.0 dias (limite IQR): 0
+[outliers] CDD 2022: acima de 77.0 dias (limite IQR): 5
+[outliers] CDD 2022: abaixo de 5.0 dias (limite IQR): 0
+[outliers] CDD 2023: acima de 66.0 dias (limite IQR): 41
+[outliers] CDD 2023: abaixo de 10.0 dias (limite IQR): 0
+[outliers] CDD 2024: acima de 56.0 dias (limite IQR): 112
+[outliers] CDD 2024: abaixo de 24.0 dias (limite IQR): 16
+[cobertura] municipios da malha com menos de 3 anos validos (serao imputados): 39
+
+Imputacao validada (10 partes, cdd_mediana): RMSE IDW 3.4 dias x RMSE da media global 10.9 dias; correlacao 0.95.
+[imputacao] municipios imputados por IDW (5 vizinhos): 39
+[cobertura] municipios de renda/perdas fora da malha (removidos): 0
+
+Base final: 633 municipios; CDD usado = cdd_mediana; imputados: 39.
+
+CDD bruto: max 189 dias; apos tratamento: max 107 dias.
+
+--- CDD por ano, tratado (municipios com dado valido) ---
+          count  mean   50%   std   min    max
+cdd_2020  606.0  46.5  45.0  16.7  14.0   85.5
+cdd_2021  606.0  49.5  40.0  25.1  10.0  107.0
+cdd_2022  606.0  42.6  48.0  12.8  14.0   77.0
+cdd_2023  606.0  40.4  36.0  14.5  13.0   66.0
+cdd_2024  606.0  41.3  40.0   8.4  24.0   56.0
+
+--- Spearman entre os anos (tratado) ---
+          cdd_2020  cdd_2021  cdd_2022  cdd_2023  cdd_2024
+cdd_2020      1.00      0.83      0.79      0.39      0.53
+cdd_2021      0.83      1.00      0.79      0.42      0.50
+cdd_2022      0.79      0.79      1.00      0.40      0.48
+cdd_2023      0.39      0.42      0.40      1.00      0.11
+cdd_2024      0.53      0.50      0.48      0.11      1.00
+
+Municipios com os 5 anos validos: 606. Desvio medio dentro do municipio: 11.7 dias; CV medio 25.7%.
+Ano com a maior seca de cada municipio: 2020=101, 2021=178, 2022=100, 2023=112, 2024=115
+
+CDD 2022 tratado x antigo: n = 598; iguais 97.8%; correlacao 0.993; diferenca media -0.08 dias.
+
+--- cdd_mediana (base final) ---
+count    633.00
+mean      41.92
+std       10.83
+min       14.00
+25%       34.00
+50%       45.00
+75%       50.00
+max       77.00
+Spearman do CDD usado com renda: +0.12; com perdas: -0.31 (dimensoes pouco correlacionadas favorecem a abordagem multivariada)
+
+--- Silhouette por k ---
+ k  silhouette_cdd_2022  silhouette_cdd_multianual
+ 2                0.360                      0.298
+ 3                0.379                      0.343
+ 4                0.393                      0.355
+ 5                0.332                      0.283
+ 6                0.325                      0.262
+ 7                0.304                      0.264
+ 8                0.311                      0.258
+ 9                0.306                      0.262
+10                0.305                      0.268
+
+k=4: ARI entre CDD 2022 e CDD multianual = 0.74

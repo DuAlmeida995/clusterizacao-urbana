@@ -1,0 +1,31 @@
+﻿etapa,descricao,quantidade
+entrada,linhas lidas - perdas (SNIS),647
+entrada,linhas lidas - renda (IBGE),662
+duplicatas,linhas identicas removidas - perdas,0
+duplicatas,linhas identicas removidas - renda,0
+duplicatas,municipios com mais de um prestador de agua (fica o primeiro),0
+duplicatas,municipios repetidos na renda (fica o primeiro),0
+implausiveis,"perdas exatamente 0,00% tratadas como ausentes (decisao do artigo)",10
+implausiveis,renda <= 0 tratada como ausente,0
+ausentes,municipios removidos por renda ou perdas ausentes,12
+outliers,renda_per_capita: acima do limite superior do IQR (limitados),24
+outliers,renda_per_capita: abaixo do limite inferior do IQR (limitados),0
+outliers,indice_perdas_distribuicao: acima do limite superior do IQR (limitados),17
+outliers,indice_perdas_distribuicao: abaixo do limite inferior do IQR (limitados),0
+duplicatas,linhas identicas removidas - CDD,0
+duplicatas,municipio-ano repetidos com valores diferentes (fica o primeiro),0
+completude,municipio-ano com menos de 90% dos dias observados (anulado),0
+implausiveis,CDD negativo ou maior que os dias observados (anulado),0
+outliers,CDD 2020: acima de 85.5 dias (limite IQR),40
+outliers,CDD 2020: abaixo de 1.5 dias (limite IQR),0
+outliers,CDD 2021: acima de 147.5 dias (limite IQR),0
+outliers,CDD 2021: abaixo de 0.0 dias (limite IQR),0
+outliers,CDD 2022: acima de 77.0 dias (limite IQR),5
+outliers,CDD 2022: abaixo de 5.0 dias (limite IQR),0
+outliers,CDD 2023: acima de 66.0 dias (limite IQR),41
+outliers,CDD 2023: abaixo de 10.0 dias (limite IQR),0
+outliers,CDD 2024: acima de 56.0 dias (limite IQR),112
+outliers,CDD 2024: abaixo de 24.0 dias (limite IQR),16
+cobertura,municipios da malha com menos de 3 anos validos (serao imputados),39
+imputacao,municipios imputados por IDW (5 vizinhos),39
+cobertura,municipios de renda/perdas fora da malha (removidos),0
