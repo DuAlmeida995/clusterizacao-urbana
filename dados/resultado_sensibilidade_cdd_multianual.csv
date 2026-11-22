@@ -1,0 +1,634 @@
+﻿id_municipio,municipio,cluster_final,cluster_cdd_mediana_2020_24,cluster_cdd_media_2020_24,cdd_2022,cdd_mediana_2020_24,perfil_estavel
+350010,Adamantina,1,1,1,50.0,50.0,True
+350020,Adolfo,2,3,3,27.0,47.0,False
+350030,Aguaí,4,4,4,47.0,44.0,True
+350040,Águas da Prata,4,4,4,47.0,45.0,True
+350050,Águas de Lindóia,4,1,1,43.6,36.4,False
+350055,Águas de Santa Bárbara,1,1,1,47.0,30.0,True
+350060,Águas de São Pedro,1,1,1,48.1,36.5,True
+350070,Agudos,4,4,4,47.0,36.0,True
+350075,Alambari,2,2,2,24.0,30.0,True
+350080,Alfredo Marcondes,3,3,3,48.0,48.0,True
+350090,Altair,3,3,3,51.0,54.0,True
+350100,Altinópolis,4,4,4,58.0,56.0,True
+350110,Alto Alegre,3,3,3,48.0,49.0,True
+350115,Alumínio,2,4,4,24.0,30.0,False
+350120,Álvares Florence,3,3,3,51.0,51.0,True
+350130,Álvares Machado,2,2,2,29.0,34.0,True
+350140,Álvaro de Carvalho,3,3,3,50.0,50.0,True
+350150,Alvinlândia,3,3,3,60.0,60.0,True
+350160,Americana,1,1,1,49.0,41.0,True
+350170,Américo Brasiliense,3,3,3,50.0,49.0,True
+350180,Américo de Campos,3,3,3,51.0,56.0,True
+350190,Amparo,1,1,1,41.0,36.0,True
+350200,Analândia,4,4,4,50.0,45.0,True
+350210,Andradina,1,1,3,50.0,50.0,False
+350220,Angatuba,2,2,2,22.0,28.0,True
+350230,Anhembi,2,2,2,25.0,34.0,True
+350240,Anhumas,3,3,3,48.0,36.0,True
+350250,Aparecida,4,4,4,48.0,34.0,True
+350260,Aparecida D Oeste,3,3,3,50.0,50.0,True
+350270,Apiaí,2,2,2,29.0,22.0,True
+350275,Araçariguama,4,2,2,41.0,32.0,False
+350280,Araçatuba,1,1,1,50.0,63.0,True
+350290,Araçoiaba da Serra,1,1,1,24.0,30.0,True
+350300,Aramina,4,4,4,85.0,56.0,True
+350310,Arandu,2,2,2,21.0,30.0,True
+350315,Arapeí,3,2,2,48.0,34.0,False
+350320,Araraquara,1,1,1,50.0,48.0,True
+350330,Araras,1,1,1,48.0,45.0,True
+350335,Arco-Íris,3,3,3,48.0,48.0,True
+350340,Arealva,1,1,1,47.0,47.0,True
+350350,Areias,3,2,2,48.0,34.0,False
+350360,Areiópolis,2,3,2,27.0,41.0,False
+350370,Ariranha,3,3,3,50.0,50.0,True
+350380,Artur Nogueira,1,1,1,48.0,38.0,True
+350390,Arujá,1,1,1,32.0,32.0,True
+350395,Aspásia,3,3,3,50.8,54.2,True
+350400,Assis,1,1,1,24.0,37.0,True
+350410,Atibaia,1,1,1,48.0,42.0,True
+350420,Auriflama,3,3,3,50.0,50.0,True
+350430,Avaí,3,3,3,50.0,46.0,True
+350440,Avanhandava,4,4,4,50.0,52.0,True
+350450,Avaré,2,1,1,21.0,30.0,False
+350460,Bady Bassitt,3,3,3,51.0,51.0,True
+350470,Balbinos,3,3,3,50.0,46.6,True
+350480,Bálsamo,3,3,3,51.0,51.0,True
+350490,Bananal,2,2,2,18.0,24.0,True
+350500,Barão de Antonina,2,2,2,22.0,29.0,True
+350510,Barbosa,3,3,3,50.0,54.0,True
+350520,Bariri,1,1,1,50.0,45.0,True
+350530,Barra Bonita,1,1,1,25.0,36.0,True
+350535,Barra do Chapéu,2,2,2,32.0,32.0,True
+350540,Barra do Turvo,2,2,2,18.0,18.0,True
+350550,Barretos,1,1,3,51.0,56.0,False
+350560,Barrinha,3,3,3,50.0,50.0,True
+350570,Barueri,1,1,1,26.5,29.5,True
+350580,Bastos,3,3,3,48.0,48.0,True
+350590,Batatais,3,3,3,84.0,73.0,True
+350600,Bauru,1,1,1,50.0,46.0,True
+350610,Bebedouro,1,1,1,50.0,54.0,True
+350620,Bento de Abreu,3,3,3,50.0,49.0,True
+350630,Bernardino de Campos,2,2,2,21.0,30.0,True
+350635,Bertioga,2,2,2,15.5,15.0,True
+350640,Bilac,3,3,3,50.0,49.0,True
+350650,Birigui,4,4,4,50.0,50.0,True
+350660,Biritiba-Mirim,2,2,2,16.0,24.0,True
+350670,Boa Esperança do Sul,4,4,4,50.0,46.0,True
+350680,Bocaina,4,4,4,50.0,46.0,True
+350690,Bofete,2,2,2,22.0,33.0,True
+350700,Boituva,1,1,1,24.0,32.0,True
+350710,Bom Jesus dos Perdões,4,4,4,48.0,45.0,True
+350715,Bom Sucesso de Itararé,2,2,2,32.0,30.4,True
+350720,Borá,3,3,3,48.0,46.0,True
+350730,Boracéia,3,3,3,50.0,45.0,True
+350740,Borborema,4,4,4,50.0,50.0,True
+350745,Borebi,3,3,3,47.0,36.0,True
+350750,Botucatu,1,1,1,25.0,34.0,True
+350760,Bragança Paulista,1,1,1,48.0,37.0,True
+350770,Braúna,3,3,3,50.0,53.0,True
+350775,Brejo Alegre,3,3,3,50.0,50.1,True
+350780,Brodowski,3,3,3,51.0,51.0,True
+350790,Brotas,3,3,3,50.0,45.0,True
+350800,Buri,2,2,2,24.0,24.0,True
+350810,Buritama,3,3,3,50.0,50.0,True
+350820,Buritizal,1,3,3,60.0,60.0,False
+350830,Cabrália Paulista,3,2,2,48.0,36.0,False
+350840,Cabreúva,3,3,2,41.0,41.0,False
+350850,Caçapava,1,1,1,33.0,41.0,True
+350860,Cachoeira Paulista,3,2,2,49.0,31.0,False
+350870,Caconde,4,4,4,58.0,43.0,True
+350880,Cafelândia,3,3,3,50.0,49.0,True
+350890,Caiabu,3,3,3,48.0,45.0,True
+350900,Caieiras,1,1,1,49.0,35.0,True
+350910,Caiuá,4,4,4,48.0,48.0,True
+350920,Cajamar,1,1,1,49.0,41.0,True
+350925,Cajati,2,2,2,33.0,27.0,True
+350930,Cajobi,3,3,3,51.0,56.0,True
+350940,Cajuru,3,3,3,58.0,56.0,True
+350945,Campina do Monte Alegre,2,2,2,24.0,24.0,True
+350950,Campinas,1,1,1,41.0,41.0,True
+350960,Campo Limpo Paulista,4,4,4,49.0,41.0,True
+350970,Campos do Jordão,3,2,2,48.0,34.0,False
+350980,Campos Novos Paulista,3,3,3,48.0,45.0,True
+350990,Cananéia,2,2,2,20.2,17.0,True
+350995,Canas,3,2,2,50.0,37.0,False
+351000,Cândido Mota,2,3,3,24.0,42.0,False
+351010,Cândido Rodrigues,3,3,3,50.0,47.0,True
+351015,Canitar,4,4,4,26.5,30.2,True
+351020,Capão Bonito,2,2,2,24.0,28.0,True
+351030,Capela do Alto,2,2,2,24.0,30.0,True
+351040,Capivari,4,4,4,25.0,37.0,True
+351050,Caraguatatuba,2,2,2,27.8,16.0,True
+351060,Carapicuíba,2,2,2,28.0,30.0,True
+351070,Cardoso,3,3,3,51.0,54.0,True
+351080,Casa Branca,3,3,3,47.0,44.0,True
+351090,Cássia dos Coqueiros,3,3,3,51.0,47.0,True
+351100,Castilho,3,3,3,50.0,46.0,True
+351110,Catanduva,1,1,1,50.0,47.0,True
+351120,Catiguá,3,3,3,51.0,48.0,True
+351130,Cedral,1,3,3,51.0,51.0,False
+351140,Cerqueira César,2,2,2,21.0,30.0,True
+351150,Cerquilho,1,1,1,41.0,41.0,True
+351160,Cesário Lange,3,2,2,39.0,33.0,False
+351170,Charqueada,4,4,4,48.0,37.0,True
+351190,Clementina,3,3,3,50.0,50.0,True
+351200,Colina,4,4,3,51.0,56.0,False
+351210,Colômbia,3,3,3,50.0,56.0,True
+351220,Conchal,3,3,3,49.0,38.0,True
+351230,Conchas,3,3,2,39.0,37.0,False
+351240,Cordeirópolis,4,4,4,48.0,38.0,True
+351250,Coroados,3,3,3,50.0,54.0,True
+351260,Coronel Macedo,2,2,2,22.0,29.0,True
+351270,Corumbataí,3,3,3,50.0,45.0,True
+351280,Cosmópolis,4,4,4,50.0,36.0,True
+351290,Cosmorama,3,3,3,50.0,53.0,True
+351300,Cotia,1,1,1,16.0,28.0,True
+351310,Cravinhos,3,3,3,51.0,51.0,True
+351320,Cristais Paulista,3,3,3,60.0,60.0,True
+351330,Cruzália,3,3,3,48.0,42.0,True
+351340,Cruzeiro,4,4,4,48.0,30.0,True
+351350,Cubatão,2,2,2,15.5,19.2,True
+351370,Descalvado,1,1,1,50.0,49.0,True
+351380,Diadema,2,2,2,16.0,22.3,True
+351385,Dirce Reis,3,3,3,50.0,54.0,True
+351390,Divinolândia,3,1,3,58.0,37.0,False
+351400,Dobrada,3,3,3,50.0,48.7,True
+351410,Dois Córregos,4,4,4,50.0,38.0,True
+351420,Dolcinópolis,3,3,3,51.0,54.0,True
+351430,Dourado,1,1,1,50.0,46.0,True
+351440,Dracena,1,1,1,50.0,46.0,True
+351450,Duartina,3,3,3,50.0,45.0,True
+351460,Dumont,4,4,4,50.0,50.0,True
+351470,Echaporã,2,2,2,24.0,35.0,True
+351480,Eldorado,2,2,2,17.0,20.0,True
+351490,Elias Fausto,2,3,2,25.0,42.0,False
+351492,Elisiário,4,4,4,50.2,48.7,True
+351495,Embaúba,3,3,3,50.0,56.0,True
+351500,Embu das Artes,2,2,2,15.0,29.0,True
+351510,Embu-Guaçu,2,2,2,14.0,23.0,True
+351512,Emilianópolis,3,3,3,50.0,45.0,True
+351515,Engenheiro Coelho,4,4,4,48.5,38.3,True
+351518,Espírito Santo do Pinhal,1,1,1,47.0,42.0,True
+351519,Espírito Santo do Turvo,4,2,2,48.0,35.0,False
+351520,Estrela D Oeste,3,3,3,51.0,54.0,True
+351530,Estrela do Norte,3,2,2,48.0,33.0,False
+351535,Euclides da Cunha Paulista,2,3,2,25.0,42.0,False
+351540,Fartura,2,2,2,21.0,30.0,True
+351550,Fernandópolis,1,3,3,51.0,54.0,False
+351560,Fernando Prestes,3,3,3,50.0,47.0,True
+351565,Fernão,2,2,2,25.0,35.0,True
+351570,Ferraz de Vasconcelos,2,2,2,29.7,31.7,True
+351580,Flora Rica,3,3,3,50.0,45.0,True
+351590,Floreal,3,3,3,50.0,53.0,True
+351600,Flórida Paulista,3,3,3,50.0,46.0,True
+351610,Florínia,3,3,2,48.0,42.0,False
+351620,Franca,3,3,3,59.0,59.0,True
+351630,Francisco Morato,4,4,2,48.2,38.2,False
+351640,Franco da Rocha,4,2,2,48.7,36.0,False
+351650,Gabriel Monteiro,3,3,3,50.0,49.0,True
+351660,Gália,2,2,2,25.0,35.0,True
+351670,Garça,4,4,4,50.0,46.0,True
+351680,Gastão Vidigal,3,3,3,50.0,50.0,True
+351685,Gavião Peixoto,4,4,4,50.0,47.0,True
+351690,General Salgado,3,3,3,50.0,50.0,True
+351700,Getulina,4,4,4,48.0,49.0,True
+351710,Glicério,3,3,3,50.0,50.0,True
+351720,Guaiçara,3,3,3,50.0,50.0,True
+351740,Guaíra,4,4,4,52.0,56.0,True
+351750,Guapiaçu,3,3,3,51.0,54.0,True
+351760,Guapiara,2,2,2,21.0,21.0,True
+351770,Guará,4,4,4,59.0,59.0,True
+351780,Guaraçaí,3,3,3,50.0,46.0,True
+351790,Guaraci,4,4,4,51.0,54.0,True
+351800,Guarani D Oeste,3,3,3,52.0,56.0,True
+351810,Guarantã,3,3,3,50.0,46.0,True
+351820,Guararapes,4,4,4,50.0,49.0,True
+351830,Guararema,2,4,2,32.0,33.0,False
+351840,Guaratinguetá,4,4,4,48.0,34.0,True
+351850,Guareí,2,2,2,22.0,29.0,True
+351860,Guariba,3,3,3,50.0,50.0,True
+351870,Guarujá,2,2,2,15.0,17.0,True
+351880,Guarulhos,4,4,4,49.0,31.0,True
+351885,Guatapará,3,3,3,50.0,46.0,True
+351890,Guzolândia,3,3,3,50.0,50.0,True
+351900,Herculândia,3,3,3,48.0,48.0,True
+351905,Holambra,1,1,1,45.1,38.1,True
+351907,Hortolândia,1,1,1,41.0,40.2,True
+351910,Iacanga,4,4,4,50.0,53.0,True
+351920,Iacri,2,3,3,25.0,46.0,False
+351925,Iaras,3,2,2,47.0,35.0,False
+351930,Ibaté,3,3,3,50.0,45.0,True
+351940,Ibirá,3,3,3,50.0,50.0,True
+351950,Ibirarema,2,2,2,25.0,31.0,True
+351960,Ibitinga,4,4,4,50.0,50.0,True
+351970,Ibiúna,2,2,2,16.0,18.0,True
+351980,Icém,3,3,3,51.0,56.0,True
+351990,Iepê,3,3,3,48.0,43.0,True
+352000,Igaraçu do Tietê,2,4,4,27.0,36.0,False
+352010,Igarapava,3,3,3,60.0,60.0,True
+352020,Igaratá,3,3,2,48.0,41.0,False
+352030,Iguape,2,2,2,15.0,16.0,True
+352040,Ilhabela,1,1,1,26.6,17.0,True
+352042,Ilha Comprida,2,2,2,17.0,14.0,True
+352044,Ilha Solteira,1,1,1,50.0,50.0,True
+352050,Indaiatuba,1,1,1,25.0,37.0,True
+352070,Indiaporã,3,3,3,51.0,54.0,True
+352080,Inúbia Paulista,2,3,3,25.0,46.0,False
+352090,Ipaussu,4,4,4,22.0,26.0,True
+352100,Iperó,2,2,2,24.0,31.0,True
+352110,Ipeúna,1,1,1,48.0,38.0,True
+352115,Ipiguá,3,3,3,51.0,51.0,True
+352120,Iporanga,2,2,2,20.0,22.0,True
+352130,Ipuã,3,3,3,59.0,59.0,True
+352140,Iracemápolis,3,1,1,48.0,38.0,False
+352150,Irapuã,3,3,3,50.0,50.0,True
+352160,Irapuru,4,4,4,50.0,37.0,True
+352170,Itaberá,3,2,2,41.0,31.0,False
+352180,Itaí,2,2,2,22.0,30.0,True
+352190,Itajobi,3,3,3,50.0,47.0,True
+352200,Itaju,4,4,4,50.0,50.0,True
+352210,Itanhaém,2,2,2,17.0,17.0,True
+352215,Itaóca,2,2,2,29.0,27.0,True
+352220,Itapecerica da Serra,2,2,2,14.0,28.0,True
+352230,Itapetininga,2,1,1,24.0,30.0,False
+352240,Itapeva,4,2,2,41.0,31.0,False
+352250,Itapevi,2,2,2,28.0,29.0,True
+352260,Itapira,4,4,4,48.0,36.0,True
+352265,Itapirapuã Paulista,2,2,2,29.0,29.0,True
+352270,Itápolis,3,3,3,50.0,47.0,True
+352280,Itaporanga,2,2,2,24.0,29.0,True
+352290,Itapuí,3,3,3,50.0,45.0,True
+352300,Itapura,4,4,4,50.0,50.0,True
+352310,Itaquaquecetuba,2,2,2,32.0,32.0,True
+352320,Itararé,2,2,2,40.0,37.0,True
+352330,Itariri,2,2,2,17.0,17.0,True
+352340,Itatiba,1,1,1,48.0,38.0,True
+352350,Itatinga,2,2,2,22.0,30.0,True
+352360,Itirapina,1,1,1,50.0,45.0,True
+352370,Itirapuã,3,3,3,60.0,60.0,True
+352380,Itobi,3,3,3,47.0,47.0,True
+352390,Itu,4,4,4,41.0,41.0,True
+352400,Itupeva,1,1,1,41.0,41.0,True
+352410,Ituverava,4,4,4,60.0,60.0,True
+352420,Jaborandi,3,3,3,51.0,56.0,True
+352430,Jaboticabal,1,1,1,50.0,50.0,True
+352440,Jacareí,1,1,1,49.0,46.0,True
+352450,Jaci,3,3,3,51.0,51.0,True
+352460,Jacupiranga,2,2,2,18.0,18.0,True
+352470,Jaguariúna,1,1,1,41.0,38.0,True
+352480,Jales,1,1,1,51.0,54.0,True
+352490,Jambeiro,1,1,1,32.0,35.0,True
+352500,Jandira,4,4,4,26.1,29.1,True
+352510,Jardinópolis,3,3,3,83.0,56.0,True
+352520,Jarinu,3,3,2,49.0,44.0,False
+352530,Jaú,1,1,1,50.0,38.0,True
+352540,Jeriquara,3,3,3,60.0,60.0,True
+352550,Joanópolis,1,1,1,49.0,41.0,True
+352560,João Ramalho,3,3,2,48.0,45.0,False
+352570,José Bonifácio,1,1,3,50.0,50.0,False
+352580,Júlio Mesquita,3,3,3,50.0,50.0,True
+352585,Jumirim,3,3,3,43.7,41.1,True
+352590,Jundiaí,1,1,1,41.0,41.0,True
+352600,Junqueirópolis,3,3,3,50.0,50.0,True
+352610,Juquiá,2,2,2,17.0,17.0,True
+352620,Juquitiba,2,2,2,16.0,18.0,True
+352630,Lagoinha,2,2,2,31.0,30.0,True
+352640,Laranjal Paulista,4,4,4,48.0,42.0,True
+352660,Lavrinhas,3,2,2,48.0,31.0,False
+352670,Leme,4,4,4,49.0,46.0,True
+352680,Lençóis Paulista,1,1,1,25.0,36.0,True
+352690,Limeira,1,1,1,48.0,37.0,True
+352700,Lindóia,3,3,1,42.4,36.5,False
+352710,Lins,1,1,3,50.0,50.0,False
+352720,Lorena,1,1,1,48.0,34.0,True
+352725,Lourdes,3,3,3,50.0,47.0,True
+352730,Louveira,1,1,1,42.9,40.6,True
+352740,Lucélia,3,3,3,50.0,49.0,True
+352750,Lucianópolis,2,3,3,25.0,36.0,False
+352760,Luís Antônio,4,4,4,51.0,46.0,True
+352770,Luiziânia,3,3,3,48.0,48.0,True
+352780,Lupércio,3,3,2,48.0,45.0,False
+352790,Lutécia,3,3,2,48.0,45.0,False
+352800,Macatuba,4,4,4,25.0,36.0,True
+352810,Macaubal,3,3,3,50.0,53.0,True
+352820,Macedônia,3,3,3,51.0,54.0,True
+352830,Magda,3,3,3,51.0,49.0,True
+352840,Mairinque,2,2,2,24.0,30.0,True
+352850,Mairiporã,1,1,1,48.0,35.0,True
+352860,Manduri,2,2,2,22.0,30.0,True
+352870,Marabá Paulista,3,3,2,50.0,43.0,False
+352880,Maracaí,3,3,3,48.0,43.0,True
+352885,Marapoama,3,3,3,50.0,50.0,True
+352890,Mariápolis,3,3,3,50.0,45.0,True
+352900,Marília,1,1,1,48.0,46.0,True
+352910,Marinópolis,3,3,3,50.0,50.0,True
+352920,Martinópolis,3,3,3,48.0,45.0,True
+352930,Matão,4,4,4,50.0,49.0,True
+352940,Mauá,2,2,2,16.0,24.0,True
+352950,Mendonça,4,4,4,50.0,50.0,True
+352960,Meridiano,3,3,3,51.0,54.0,True
+352965,Mesópolis,3,3,3,51.0,54.0,True
+352970,Miguelópolis,3,3,3,61.0,61.0,True
+352980,Mineiros do Tietê,2,2,2,27.0,36.0,True
+352990,Miracatu,2,2,2,17.0,17.0,True
+353000,Mira Estrela,3,3,3,51.0,54.0,True
+353010,Mirandópolis,3,3,3,50.0,50.0,True
+353020,Mirante do Paranapanema,3,2,2,48.0,36.0,False
+353030,Mirassol,1,1,1,51.0,51.0,True
+353040,Mirassolândia,3,3,3,51.0,54.0,True
+353050,Mococa,1,1,1,57.0,47.0,True
+353060,Mogi das Cruzes,1,1,1,16.0,26.0,True
+353070,Mogi Guaçu,4,4,4,48.0,42.0,True
+353080,Mogi Mirim,1,1,1,48.0,36.0,True
+353090,Mombuca,3,2,2,41.0,37.0,False
+353100,Monções,3,3,3,50.0,53.0,True
+353110,Mongaguá,2,2,2,15.0,22.0,True
+353120,Monte Alegre do Sul,1,1,1,39.0,39.0,True
+353130,Monte Alto,1,1,1,50.0,46.0,True
+353140,Monte Aprazível,3,3,3,50.0,50.0,True
+353150,Monte Azul Paulista,1,1,4,50.0,56.0,False
+353170,Monteiro Lobato,4,4,2,48.0,38.0,False
+353180,Monte Mor,2,2,2,25.0,35.0,True
+353190,Morro Agudo,3,3,3,51.0,56.0,True
+353200,Morungaba,1,1,1,41.0,41.0,True
+353205,Motuca,3,3,3,50.0,46.0,True
+353210,Murutinga do Sul,3,3,3,50.0,50.0,True
+353215,Nantes,4,2,2,48.0,36.0,False
+353220,Narandiba,3,3,3,48.0,36.0,True
+353230,Natividade da Serra,4,4,4,32.0,24.0,True
+353240,Nazaré Paulista,3,3,2,48.0,45.0,False
+353250,Neves Paulista,4,4,4,50.0,50.0,True
+353260,Nhandeara,3,3,3,50.0,54.0,True
+353270,Nipoã,3,3,3,50.0,50.0,True
+353280,Nova Aliança,4,4,4,50.0,50.0,True
+353282,Nova Campina,2,2,2,29.0,27.0,True
+353284,Nova Canaã Paulista,3,3,3,50.0,54.0,True
+353286,Nova Castilho,3,3,3,50.0,50.0,True
+353290,Nova Europa,3,3,3,50.0,46.0,True
+353300,Nova Granada,3,3,3,51.0,53.0,True
+353310,Nova Guataporanga,3,3,3,41.9,47.8,True
+353320,Nova Independência,4,4,4,50.0,47.0,True
+353330,Nova Luzitânia,3,3,3,50.0,47.0,True
+353340,Nova Odessa,1,1,1,43.4,40.3,True
+353350,Novo Horizonte,3,3,3,50.0,49.0,True
+353360,Nuporanga,3,3,3,51.0,56.0,True
+353370,Ocauçu,3,3,3,48.0,46.0,True
+353380,Óleo,3,2,2,38.0,38.0,False
+353390,Olímpia,3,3,3,51.0,51.0,True
+353400,Onda Verde,3,3,3,51.0,54.0,True
+353410,Oriente,3,3,3,48.0,46.0,True
+353420,Orindiúva,3,3,3,59.0,56.0,True
+353430,Orlândia,4,4,4,83.0,77.0,True
+353440,Osasco,1,1,1,25.0,29.2,True
+353450,Oscar Bressane,3,3,3,48.0,46.0,True
+353460,Osvaldo Cruz,1,3,3,25.0,46.0,False
+353470,Ourinhos,4,4,4,25.0,30.0,True
+353475,Ouroeste,3,3,3,51.0,54.0,True
+353480,Ouro Verde,3,3,3,50.0,50.0,True
+353490,Pacaembu,3,3,3,50.0,46.0,True
+353500,Palestina,3,3,3,51.0,56.0,True
+353510,Palmares Paulista,3,3,3,50.0,51.1,True
+353520,Palmeira D Oeste,3,3,3,51.0,54.0,True
+353530,Palmital,2,2,2,24.0,29.0,True
+353540,Panorama,3,3,3,50.0,50.0,True
+353550,Paraguaçu Paulista,3,3,3,48.0,44.0,True
+353560,Paraibuna,2,2,2,33.0,33.0,True
+353570,Paraíso,4,4,4,50.0,50.0,True
+353580,Paranapanema,2,2,2,22.0,30.0,True
+353590,Paranapuã,3,3,3,51.0,54.0,True
+353600,Parapuã,2,3,3,25.0,45.0,False
+353610,Pardinho,2,4,4,22.0,37.0,False
+353620,Pariquera-Açu,2,2,2,15.0,15.0,True
+353625,Parisi,3,3,3,51.0,51.0,True
+353630,Patrocínio Paulista,4,4,4,59.0,59.0,True
+353650,Paulínia,1,1,1,53.0,41.0,True
+353657,Paulistânia,3,2,2,48.0,36.0,False
+353660,Paulo de Faria,3,3,3,51.0,56.0,True
+353670,Pederneiras,4,4,4,50.0,45.0,True
+353680,Pedra Bela,3,2,2,48.0,36.0,False
+353690,Pedranópolis,3,3,3,51.0,54.0,True
+353700,Pedregulho,3,3,3,59.0,59.0,True
+353710,Pedreira,4,4,4,41.0,36.0,True
+353715,Pedrinhas Paulista,1,1,1,48.0,42.0,True
+353720,Pedro de Toledo,2,2,2,17.0,17.0,True
+353730,Penápolis,1,3,3,50.0,53.0,False
+353740,Pereira Barreto,3,3,3,50.0,65.0,True
+353750,Pereiras,2,2,2,39.0,35.0,True
+353760,Peruíbe,2,2,2,16.8,18.0,True
+353770,Piacatu,3,3,3,50.0,50.0,True
+353780,Piedade,2,2,2,16.0,24.0,True
+353790,Pilar do Sul,2,2,2,24.0,24.0,True
+353800,Pindamonhangaba,1,1,2,37.0,37.0,False
+353810,Pindorama,4,4,4,50.0,50.0,True
+353820,Pinhalzinho,3,2,2,48.0,36.0,False
+353830,Piquerobi,3,3,3,50.0,50.0,True
+353850,Piquete,3,2,2,59.0,34.0,False
+353860,Piracaia,4,4,4,48.0,44.0,True
+353870,Piracicaba,1,1,1,50.0,36.0,True
+353880,Piraju,2,2,2,21.0,30.0,True
+353890,Pirajuí,3,3,3,50.0,46.0,True
+353900,Pirangi,1,3,3,50.0,50.0,False
+353910,Pirapora do Bom Jesus,4,4,2,41.0,41.0,False
+353920,Pirapozinho,3,2,2,48.0,33.0,False
+353930,Pirassununga,1,1,1,47.0,49.0,True
+353940,Piratininga,1,1,1,48.0,46.0,True
+353950,Pitangueiras,3,3,3,50.0,56.0,True
+353960,Planalto,3,3,3,50.0,50.0,True
+353970,Platina,2,2,2,24.0,29.0,True
+353980,Poá,2,2,2,32.0,32.0,True
+353990,Poloni,3,3,3,50.0,50.0,True
+354000,Pompéia,1,1,1,48.0,48.0,True
+354010,Pongaí,3,3,3,50.0,49.0,True
+354020,Pontal,3,3,3,50.0,56.0,True
+354025,Pontalinda,3,3,3,50.0,54.0,True
+354030,Pontes Gestal,3,3,3,51.0,56.0,True
+354040,Populina,3,3,3,51.0,54.0,True
+354050,Porangaba,4,2,2,39.0,35.0,False
+354060,Porto Feliz,1,1,1,41.0,37.0,True
+354070,Porto Ferreira,1,3,3,50.0,50.0,False
+354075,Potim,4,4,4,51.0,34.0,True
+354080,Potirendaba,4,4,4,50.0,50.0,True
+354085,Pracinha,3,3,3,45.6,50.0,True
+354090,Pradópolis,3,3,3,52.0,52.0,True
+354100,Praia Grande,2,2,1,16.0,18.0,False
+354105,Pratânia,2,2,2,25.0,32.0,True
+354110,Presidente Alves,3,3,3,50.0,46.0,True
+354120,Presidente Bernardes,3,3,3,48.0,44.0,True
+354130,Presidente Epitácio,3,2,3,50.0,35.0,False
+354140,Presidente Prudente,1,1,1,48.0,44.0,True
+354150,Presidente Venceslau,1,1,1,50.0,46.0,True
+354160,Promissão,3,3,3,50.0,50.0,True
+354165,Quadra,3,2,2,39.0,33.0,False
+354170,Quatá,3,3,3,48.0,46.0,True
+354180,Queiroz,3,3,3,48.0,47.0,True
+354190,Queluz,3,2,2,48.0,33.0,False
+354200,Quintana,3,3,3,48.0,46.0,True
+354210,Rafard,3,3,1,42.0,42.0,False
+354220,Rancharia,4,4,4,48.0,38.0,True
+354230,Redenção da Serra,2,2,2,32.0,31.0,True
+354240,Regente Feijó,3,3,3,48.0,43.0,True
+354250,Reginópolis,4,4,4,50.0,46.0,True
+354260,Registro,2,2,2,16.0,17.0,True
+354270,Restinga,3,3,3,59.0,59.0,True
+354280,Ribeira,2,2,2,29.0,29.0,True
+354290,Ribeirão Bonito,3,3,3,50.0,46.0,True
+354300,Ribeirão Branco,2,2,2,30.0,30.0,True
+354310,Ribeirão Corrente,3,3,3,58.0,58.0,True
+354320,Ribeirão do Sul,3,2,2,48.0,36.0,False
+354323,Ribeirão dos Índios,3,3,3,50.0,40.0,True
+354325,Ribeirão Grande,2,2,2,15.0,19.0,True
+354330,Ribeirão Pires,2,2,2,16.0,23.0,True
+354340,Ribeirão Preto,1,1,1,50.0,50.0,True
+354350,Riversul,2,2,2,41.0,37.0,True
+354360,Rifaina,3,3,3,60.0,60.0,True
+354380,Rinópolis,2,3,3,25.0,46.0,False
+354390,Rio Claro,1,1,1,48.0,46.0,True
+354410,Rio Grande da Serra,2,2,2,16.0,23.0,True
+354420,Riolândia,3,3,3,51.0,56.0,True
+354425,Rosana,2,2,2,25.0,33.0,True
+354430,Roseira,3,2,2,47.2,34.1,False
+354440,Rubiácea,3,3,3,50.0,49.0,True
+354450,Rubinéia,3,3,3,50.0,54.0,True
+354460,Sabino,3,3,3,50.0,50.0,True
+354470,Sagres,3,3,3,50.0,45.0,True
+354480,Sales,4,4,4,50.0,50.0,True
+354490,Sales Oliveira,3,3,3,84.0,59.0,True
+354500,Salesópolis,2,2,2,16.0,25.0,True
+354510,Salmourão,3,3,3,50.0,49.0,True
+354515,Saltinho,1,1,1,49.0,37.0,True
+354520,Salto,1,1,1,25.0,37.0,True
+354530,Salto de Pirapora,2,2,2,28.0,30.0,True
+354540,Salto Grande,4,4,4,25.0,30.0,True
+354550,Sandovalina,3,2,2,48.0,33.0,False
+354560,Santa Adélia,3,3,3,50.0,47.0,True
+354570,Santa Albertina,3,3,3,51.0,55.0,True
+354580,Santa Bárbara D Oeste,4,4,4,50.0,34.0,True
+354600,Santa Branca,4,4,4,33.0,36.0,True
+354610,Santa Clara D Oeste,3,3,3,50.0,54.0,True
+354620,Santa Cruz da Conceição,4,4,4,50.0,45.0,True
+354625,Santa Cruz da Esperança,3,3,3,50.0,50.0,True
+354630,Santa Cruz das Palmeiras,3,3,3,47.0,44.0,True
+354640,Santa Cruz do Rio Pardo,4,1,1,47.0,37.0,False
+354650,Santa Ernestina,3,3,3,50.0,49.0,True
+354670,Santa Gertrudes,3,3,3,48.0,46.0,True
+354680,Santa Isabel,2,2,2,32.0,35.0,True
+354690,Santa Lúcia,3,3,3,50.0,49.0,True
+354700,Santa Maria da Serra,3,3,3,48.0,42.0,True
+354710,Santa Mercedes,3,3,3,50.0,50.0,True
+354720,Santana da Ponte Pensa,3,3,3,50.3,54.0,True
+354730,Santana de Parnaíba,1,1,1,28.0,29.0,True
+354740,Santa Rita D Oeste,3,3,3,50.0,54.0,True
+354750,Santa Rita do Passa Quatro,1,1,1,51.0,46.0,True
+354760,Santa Rosa de Viterbo,3,3,3,61.0,47.0,True
+354765,Santa Salete,3,3,3,51.0,54.0,True
+354770,Santo Anastácio,3,3,3,50.0,44.0,True
+354780,Santo André,1,1,1,16.0,24.0,True
+354790,Santo Antônio da Alegria,4,4,4,58.0,54.0,True
+354800,Santo Antônio de Posse,4,4,4,41.0,38.0,True
+354805,Santo Antônio do Aracanguá,3,3,3,50.0,50.0,True
+354810,Santo Antônio do Jardim,3,3,3,58.0,46.0,True
+354820,Santo Antônio do Pinhal,1,1,1,48.0,34.0,True
+354830,Santo Expedito,3,3,3,48.0,48.0,True
+354840,Santópolis do Aguapeí,3,3,3,48.0,48.0,True
+354850,Santos,1,1,1,16.0,22.0,True
+354860,São Bento do Sapucaí,3,3,1,34.0,34.0,False
+354870,São Bernardo do Campo,1,1,1,16.0,21.0,True
+354880,São Caetano do Sul,1,1,1,16.0,23.2,True
+354890,São Carlos,1,1,1,50.0,45.0,True
+354900,São Francisco,3,3,3,50.7,53.5,True
+354910,São João da Boa Vista,1,1,1,47.0,44.0,True
+354920,São João das Duas Pontes,3,3,3,51.0,54.0,True
+354925,São João de Iracema,3,3,3,50.0,50.0,True
+354930,São João do Pau d Alho,2,3,3,25.0,46.0,False
+354940,São Joaquim da Barra,4,4,4,59.0,59.0,True
+354950,São José da Bela Vista,4,4,4,59.0,59.0,True
+354960,São José do Barreiro,2,2,2,17.0,22.0,True
+354970,São José do Rio Pardo,3,3,3,58.0,47.0,True
+354980,São José do Rio Preto,1,1,1,51.0,54.0,True
+354990,São José dos Campos,1,1,1,48.0,45.0,True
+354995,São Lourenço da Serra,2,2,2,17.0,23.0,True
+355000,São Luís do Paraitinga,2,2,2,15.0,22.0,True
+355010,São Manuel,2,4,2,24.0,41.0,False
+355020,São Miguel Arcanjo,2,2,2,24.0,30.0,True
+355030,São Paulo,1,1,1,16.0,24.0,True
+355040,São Pedro,4,4,4,48.0,36.0,True
+355050,São Pedro do Turvo,3,3,3,48.0,33.0,True
+355060,São Roque,1,1,1,24.0,29.0,True
+355070,São Sebastião,2,2,2,26.4,16.0,True
+355080,São Sebastião da Grama,3,3,3,47.0,42.0,True
+355090,São Simão,4,4,4,50.0,46.0,True
+355100,São Vicente,2,2,2,15.0,18.0,True
+355110,Sarapuí,2,2,2,24.0,30.0,True
+355120,Sarutaiá,2,2,2,21.0,30.0,True
+355130,Sebastianópolis do Sul,3,3,3,50.0,53.0,True
+355140,Serra Azul,3,3,3,50.0,50.0,True
+355150,Serrana,4,4,4,58.0,57.0,True
+355160,Serra Negra,1,1,1,39.0,36.0,True
+355170,Sertãozinho,4,4,4,50.0,56.0,True
+355180,Sete Barras,2,2,2,17.0,17.0,True
+355190,Severínia,3,3,3,51.0,54.8,True
+355200,Silveiras,3,2,2,49.0,33.0,False
+355210,Socorro,1,1,1,48.0,36.0,True
+355220,Sorocaba,1,1,1,28.0,32.0,True
+355230,Sud Mennucci,3,3,3,50.0,50.0,True
+355240,Sumaré,4,4,4,40.0,41.0,True
+355250,Suzano,2,2,2,16.0,31.0,True
+355255,Suzanápolis,3,3,3,50.0,50.0,True
+355260,Tabapuã,3,3,3,50.0,50.0,True
+355270,Tabatinga,3,3,3,50.0,46.0,True
+355280,Taboão da Serra,2,1,1,18.4,28.0,False
+355290,Taciba,3,2,2,48.0,36.0,False
+355300,Taguaí,2,2,2,22.0,30.0,True
+355310,Taiaçu,3,3,3,50.0,47.0,True
+355330,Tambaú,3,3,3,39.0,43.0,True
+355340,Tanabi,3,3,3,50.0,54.0,True
+355350,Tapiraí,2,2,2,16.0,17.0,True
+355360,Tapiratiba,4,4,4,51.0,47.0,True
+355370,Taquaritinga,3,3,3,50.0,46.0,True
+355380,Taquarituba,2,2,2,22.0,30.0,True
+355385,Taquarivaí,2,2,2,30.0,30.0,True
+355390,Tarabai,2,2,2,29.0,33.0,True
+355395,Tarumã,2,3,2,24.0,42.0,False
+355400,Tatuí,2,2,2,24.0,30.0,True
+355410,Taubaté,1,1,1,29.0,35.0,True
+355420,Tejupá,2,4,4,21.0,30.0,False
+355430,Teodoro Sampaio,2,2,2,25.0,30.0,True
+355440,Terra Roxa,3,3,3,51.0,56.0,True
+355450,Tietê,4,4,4,41.0,42.0,True
+355460,Timburi,2,2,2,22.0,30.0,True
+355465,Torre de Pedra,2,2,2,22.0,33.0,True
+355470,Torrinha,4,4,4,50.0,45.0,True
+355475,Trabiju,3,3,3,50.0,46.0,True
+355480,Tremembé,1,1,1,37.0,37.0,True
+355490,Três Fronteiras,3,3,3,50.0,54.0,True
+355495,Tuiuti,4,4,4,48.0,46.0,True
+355500,Tupã,1,1,3,48.0,48.0,False
+355510,Tupi Paulista,1,1,1,50.0,46.0,True
+355520,Turiúba,3,3,3,50.0,50.0,True
+355530,Turmalina,1,3,3,51.0,54.0,False
+355535,Ubarana,2,3,3,27.0,56.0,False
+355540,Ubatuba,2,2,2,23.9,22.0,True
+355550,Ubirajara,2,2,3,25.0,35.0,False
+355560,Uchoa,3,3,3,50.0,50.0,True
+355570,União Paulista,3,3,3,50.0,50.0,True
+355580,Urânia,3,3,3,51.0,54.0,True
+355590,Uru,3,3,3,50.0,48.3,True
+355600,Urupês,3,3,3,50.0,50.0,True
+355610,Valentim Gentil,3,3,3,51.0,54.0,True
+355620,Valinhos,1,1,1,49.0,41.0,True
+355630,Valparaíso,4,4,4,50.0,49.0,True
+355635,Vargem,3,3,2,48.0,41.0,False
+355640,Vargem Grande do Sul,3,3,3,47.0,47.0,True
+355645,Vargem Grande Paulista,1,1,1,21.7,28.8,True
+355650,Várzea Paulista,3,4,2,47.8,40.9,False
+355660,Vera Cruz,4,4,4,50.0,46.0,True
+355670,Vinhedo,1,1,1,41.0,41.0,True
+355680,Viradouro,3,3,3,50.0,56.0,True
+355690,Vista Alegre do Alto,3,3,3,50.0,50.0,True
+355695,Vitória Brasil,3,3,3,51.0,54.0,True
+355700,Votorantim,1,1,1,45.0,32.0,True
+355710,Votuporanga,1,1,1,51.0,54.0,True
+355715,Zacarias,3,3,3,50.0,50.0,True
+355720,Chavantes,4,4,4,25.0,30.0,True
+355730,Estiva Gerbi,4,4,4,48.0,42.0,True
